@@ -6,16 +6,6 @@
 
 This is a real-time Hacker News clone written using [React](http://facebook.github.io/react/), [RefluxJS](https://github.com/spoike/refluxjs), and a [Firebase](http://firebase.com) backend.
 
-## Demo
-
-[![React-News](http://henleyedition.com/content/images/2015/02/Screen-Shot-2015-02-22-at-10-59-05-PM.png)](http://henleyedition.com/react-news/)
-
-Demo available [here](http://henleyedition.com/react-news/).
-
-Test User Login:  
-email: reactnews@example.com  
-password: henleyedition1
-
 ## Development and Build Process
 
 To start the development server, run `npm i && npm start` and have at the `src/`. Files are served from `/build`.
